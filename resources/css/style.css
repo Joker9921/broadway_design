@@ -23,13 +23,26 @@ footer{
   color: white;
 }
 
-.top {
+
+h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
+.top {
+    background-image: url("./images/the-flatiron-building.png");
+}
+
+.mid{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("./images/the-flatiron-building.png");
+}
 .links {
   font-family: Helvetica;
   font-size: 18px;
